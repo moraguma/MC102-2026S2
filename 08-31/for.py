@@ -5,9 +5,6 @@ minha_lista = ["Abacaxi", "Banana", "Caju", "Damasco"]
 #     print(minha_lista[i])
 #     i += 1
 
-fruta = "Oi!"
-print(fruta)
 for fruta in minha_lista:
     print(fruta)
-print(fruta)
 
