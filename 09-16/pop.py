@@ -7,3 +7,4 @@ meu_dicionario = {
 
 meu_dicionario.pop("Cor")
 print(meu_dicionario)
+

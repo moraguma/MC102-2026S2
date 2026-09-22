@@ -5,4 +5,4 @@ meu_dicionario["Ana"] = 21
 print(meu_dicionario)
 
 print(meu_dicionario["Gustavo"])
-print(meu_dicionario["Beto"])
+#print(meu_dicionario["Beto"])
