@@ -1,0 +1,20 @@
+{
+    "arquivos": [
+        {
+            "nome": "McDonalds",
+            "arquivo": "bolsa1.csv"
+        },
+        {
+            "nome": "Burger King",
+            "arquivo": "bolsa2.csv"
+        },
+        {
+            "nome": "Bob's",
+            "arquivo": "bolsa3.csv"
+        },
+        {
+            "nome": "KFC",
+            "arquivo": "bolsa4.csv"
+        }
+    ]
+}
